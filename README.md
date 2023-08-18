@@ -1,6 +1,7 @@
 # autotests_python_testwork_28.1
 ## 28.1. Итоговый проект по автоматизации тестирования<br/>
 <br/>
+https://docs.google.com/spreadsheets/d/1evr1hJ66wWX9C_rBKtJ8hJ-IT4Vk3wmWUkZq5wnqwhI/edit?usp=sharing<br/>
 Данные автотесты проверяют сайт авторизации https://b2c.passport.rt.ru/ , а именно:<br/>
 Тест 1-3) Проверка авторизации с помощью номера телефона<br/>  
 - 1 Корректные данные, ок<br/>
